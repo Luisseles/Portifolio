@@ -1,2 +1,2 @@
 # Portifolio
-Full Stack Developers Portfolio
+Developers  portfolio
