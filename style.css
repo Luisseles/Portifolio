@@ -1019,6 +1019,7 @@
   .card-info button {
     width: 8rem;
     height: 2.5rem;
+    cursor: pointer;
   }
   
   .card:hover .card-info {
